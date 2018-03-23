@@ -1,5 +1,2 @@
 # practise
-
-
-
-practise repo for git commands  demonstration
+Practise repo for git commands  demonstration
